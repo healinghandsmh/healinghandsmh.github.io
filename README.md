@@ -1,16 +1,9 @@
-# Healing Hands Mental Health website
+# Healing Hands Mental Health
 
-Six-page static website for GitHub Pages.
+The original ChatGPT-created website design and wording are restored across six static pages, with the approved navy/teal logo.
 
-## Editing
-Edit the corresponding HTML file to change page text. Shared styling is in `style.css`. Save a commit to publish when Pages is configured to deploy from the main branch and root folder. The Google employment form is embedded on careers.html; edit that form in Google Forms to manage application questions and responses.
+## Applications
+Careers uses a styled HTML form with FormSubmit delivery to admin@healinghandsmh.org. It collects full name, email, phone, opening, required PDF/DOC/DOCX résumé (5 MB maximum), and optional introduction. The first submission can require recipient email activation. Do not assume delivery is active until a test and confirmation succeed. No applicant information is stored in GitHub.
 
-## Publishing
-In this repository: Settings → Pages → Deploy from a branch → main → /(root) → Save.
-
-## Outstanding content verification
-- Confirm the employment form collects name, email, phone, and résumé and accepts the intended applicants. No application data is stored in this repository.
-- Confirm accepted insurance plans before listing insurer names.
-- The header uses a text wordmark; replace with the approved logo asset when available.
-
-No custom domain or DNS changes are included. This project is independent of HR OnDemand.
+## Editing and publishing
+Edit each HTML page (shared styles are embedded). Commits to main publish through the existing GitHub Pages configuration. No domain or HR OnDemand settings were changed.
